@@ -1,8 +1,3 @@
-import Pkg
-Pkg.add("Pkg")
-using Pkg
-
-Pkg.activate(".")
 
 using FinalExample
 using Test
